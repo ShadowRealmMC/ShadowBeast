@@ -3,6 +3,7 @@
 
 \.minecraft/reports/
 \.minecraft/saves/
+\.minecraft/journeymap/
 
 *.log
 
