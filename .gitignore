@@ -2,9 +2,12 @@
 \.minecraft/logs/
 
 \.minecraft/reports/
+\.minecraft/saves/
 
 *.log
 
 \.minecraft/\.mixin\.out/audit/mixin_implementation_report\.txt
 
 \.minecraft/config/brandon3055/contributors\.json
+
+natives/
