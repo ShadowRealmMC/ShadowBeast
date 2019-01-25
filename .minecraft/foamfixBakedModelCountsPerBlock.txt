@@ -3075,7 +3075,6 @@ randomthings:imbuingstation: 2
 opencomputers:disassembler: 2
 agricraft:seed_analyzer: 2
 minecraft:web: 2
-openblocks:auto_enchantment_table: 2
 randomthings:creativeplayerinterface: 2
 thaumcraft:loot_crate_uncommon: 2
 minecraft:wood_old_slab: 2
@@ -3778,7 +3777,6 @@ twilightforest:trollber: 2
 thaumcraft:stone_ancient_tile: 2
 appliedenergistics2:smooth_sky_stone_chest: 2
 minecraft:crafting_table: 2
-openblocks:golden_egg: 2
 botania:pavement3slab: 2
 botania:livingrock1slab: 2
 thaumcraft:candle_black: 2

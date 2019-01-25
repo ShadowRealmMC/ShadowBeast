@@ -31,7 +31,7 @@ ropebridge: 799
 appliedenergistics2: 720
 extrautils2: 621
 ferdinandsflowers: 609
-openblocks: 604
+openblocks: 600
 dynamictrees: 600
 thermalfoundation: 584
 extracells: 553
