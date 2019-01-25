@@ -39,7 +39,7 @@ var clientsideMods = [
 function run()
 {
   Fly.log("Packaging Server...");
-  clean();
+  // clean();
   createServer();
   copyMods();
   copyConfigs();
