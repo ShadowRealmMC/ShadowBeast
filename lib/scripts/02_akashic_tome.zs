@@ -9,7 +9,56 @@ var fullTome = <akashictome:tome> .withTag(
 		"akashictome:is_morphing": 1 as byte,
 		"akashictome:data": {
 			
-			forestry: {
+			bqt: {
+				id: "bqt:bqt",
+				Count: 1 as byte,
+				tag: {
+					"akashictome:definedMod": "bqt"
+				},
+				Damage: 0 as short
+			},
+            
+            
+            bqt: {
+				id: "bqt:bqt",
+				Count: 1 as byte,
+				tag: {
+					"akashictome:definedMod": "bqt"
+				},
+				Damage: 0 as short
+			},
+            
+            
+            theoneprobe: {
+				id: "theoneprobe:probenote",
+				Count: 1 as byte,
+				tag: {
+					"akashictome:definedMod": "theoneprobe"
+				},
+				Damage: 0 as short
+			},
+            
+            
+            opencomputers: {
+				id: "opencomputers:tool",
+				Count: 1 as byte,
+				tag: {
+					"akashictome:definedMod": "opencomputers"
+				},
+				Damage: 0 as short
+			},
+            
+            openblocks: {
+				id: "openblocks:info_book",
+				Count: 1 as byte,
+				tag: {
+					"akashictome:definedMod": "openblocks"
+				},
+				Damage: 0 as short
+			},
+            
+            
+            forestry: {
 				id: "forestry:book_forester",
 				Count: 1 as byte,
 				tag: {
