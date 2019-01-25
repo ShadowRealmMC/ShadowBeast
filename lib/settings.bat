@@ -6,5 +6,5 @@ set LAUNCHWRAPPER=net\minecraft\launchwrapper\%LAUNCHWRAPPERVERSION%\launchwrapp
 set FORGEJAR=FTBserver-1.12.2-14.23.5.2796-universal.jar
 
 rem can be changed by user
-set MAX_RAM=2048M
+set MAX_RAM=5G
 set JAVA_PARAMETERS=-XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:+CMSClassUnloadingEnabled -XX:ParallelGCThreads=5 -XX:MinHeapFreeRatio=5 -XX:MaxHeapFreeRatio=10
