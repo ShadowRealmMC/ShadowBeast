@@ -1,5 +1,6 @@
 var clientsideMods = [
   "[1.12]+RPG-HUD-3.6.6.2.jar",
+  "comforts-1.12.2-1.3.0.jar",
   "[1.12]+VersionChecker-1.3.0.jar",
   "BackTools-1.12.2-7.0.0.jar",
   "BetterFoliage-MC1.12-2.2.0.jar",
