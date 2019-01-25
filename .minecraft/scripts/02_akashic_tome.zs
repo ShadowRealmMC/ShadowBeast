@@ -45,7 +45,7 @@ var fullTome = <akashictome:tome> .withTag(
 				tag: {
 					"akashictome:definedMod": "opencomputers"
 				},
-				Damage: 0 as short
+				Damage: 4 as short
 			},
             
             openblocks: {
