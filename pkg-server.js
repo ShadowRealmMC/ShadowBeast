@@ -69,6 +69,7 @@ function copyConfigs()
 {
   Fly.log("Configuring Mods...");
   FS.copy(".minecraft/config", "server/config");
+  FS.copy(".minecraft/scripts", "server/scripts");
 }
 
 function deleteClientMods()
