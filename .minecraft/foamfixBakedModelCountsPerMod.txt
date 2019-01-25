@@ -4,9 +4,9 @@ undergroundbiomes: 5849
 unlimitedchiselworks: 5128
 forestry: 4054
 thaumcraft: 3882
-immersiveengineering: 3754
+immersiveengineering: 3755
 sonarcore: 3622
-minecraft: 3547
+minecraft: 3549
 cathedral: 3368
 botania: 3331
 tconstruct: 2912
@@ -97,6 +97,7 @@ notenoughwands: 15
 thaumicperiphery: 15
 coralreef: 14
 ironbackpacks: 13
+props: 13
 waystones: 13
 projectred-illumination: 12
 eplus: 11
