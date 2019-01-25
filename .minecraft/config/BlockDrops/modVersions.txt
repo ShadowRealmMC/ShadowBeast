@@ -1,13 +1,11 @@
 {
   "levelup2": "${version}",
-  "mistcore": "1.2.1",
   "blockdrops": "1.4.0",
   "bqt": "1.0",
   "compot": "1.1",
   "draconicevolution": "2.3.15",
   "easybreeding": "5.0.0",
   "thermalinnovation": "0.3.1",
-  "mistbiomes": "1.0.0",
   "endercore": "1.12.2-0.5.41",
   "neat": "1.4-17",
   "thaumicjei": "1.2.1",
