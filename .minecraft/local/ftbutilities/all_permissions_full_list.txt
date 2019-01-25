@@ -1,4 +1,4 @@
-18955 nodes in total
+18963 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -3729,6 +3729,8 @@ ftbutilities.claims.block.edit.projectred-exploration.stone_wall: OP
 ftbutilities.claims.block.edit.projectred-illumination.lamp: OP
 ftbutilities.claims.block.edit.projectred-relocation.blockmovingrow: OP
 ftbutilities.claims.block.edit.projectred-relocation.frame: OP
+ftbutilities.claims.block.edit.props.blockfake: OP
+ftbutilities.claims.block.edit.props.blockprops: OP
 ftbutilities.claims.block.edit.psi.cad_assembler: OP
 ftbutilities.claims.block.edit.psi.conjured: OP
 ftbutilities.claims.block.edit.psi.programmer: OP
@@ -8625,6 +8627,8 @@ ftbutilities.claims.block.interact.projectred-exploration.stone_wall: OP
 ftbutilities.claims.block.interact.projectred-illumination.lamp: OP
 ftbutilities.claims.block.interact.projectred-relocation.blockmovingrow: OP
 ftbutilities.claims.block.interact.projectred-relocation.frame: OP
+ftbutilities.claims.block.interact.props.blockfake: OP
+ftbutilities.claims.block.interact.props.blockprops: OP
 ftbutilities.claims.block.interact.psi.cad_assembler: OP
 ftbutilities.claims.block.interact.psi.conjured: OP
 ftbutilities.claims.block.interact.psi.programmer: OP
@@ -14829,6 +14833,7 @@ ftbutilities.claims.item.immersiveengineering.fluorescent_tube: ALL
 ftbutilities.claims.item.immersiveengineering.graphite_electrode: ALL
 ftbutilities.claims.item.immersiveengineering.hemp: ALL
 ftbutilities.claims.item.immersiveengineering.jerrycan: ALL
+ftbutilities.claims.item.immersiveengineering.maintenance_kit: ALL
 ftbutilities.claims.item.immersiveengineering.material: ALL
 ftbutilities.claims.item.immersiveengineering.metal: ALL
 ftbutilities.claims.item.immersiveengineering.metal_decoration0: ALL
@@ -16797,6 +16802,9 @@ ftbutilities.claims.item.projectred-transmission.wire: ALL
 ftbutilities.claims.item.projectred-transportation.pipe: ALL
 ftbutilities.claims.item.projectred-transportation.router_utility: ALL
 ftbutilities.claims.item.projectred-transportation.routing_chip: ALL
+ftbutilities.claims.item.props.clay: ALL
+ftbutilities.claims.item.props.props: ALL
+ftbutilities.claims.item.props.tool: ALL
 ftbutilities.claims.item.psi.cad: ALL
 ftbutilities.claims.item.psi.cad_assembler: ALL
 ftbutilities.claims.item.psi.cad_assembly: ALL
