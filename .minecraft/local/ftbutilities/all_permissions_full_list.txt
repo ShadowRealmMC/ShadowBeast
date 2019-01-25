@@ -19164,6 +19164,7 @@ command.openmods.om_config_s
 command.openmods.om_source_s
 command.particle
 command.pewter.pewter
+command.playerweight.playerweight
 command.playsound
 command.practicallogistics2./logistics resetregistry
 command.publish
@@ -19223,6 +19224,7 @@ command.spawnpoint
 command.spectrite.sd
 command.spiceoflife.spiceoflife
 command.spreadplayers
+command.stackup.stackup
 command.stats
 command.stopsound
 command.storagedrawers.storagedrawers
