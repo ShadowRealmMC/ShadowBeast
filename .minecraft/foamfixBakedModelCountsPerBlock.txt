@@ -2420,6 +2420,7 @@ harvestcraft:pamcashew: 4
 harvestcraft:pamspiceleafcrop: 4
 harvestcraft:pamryecrop: 4
 harvestcraft:pamscallioncrop: 4
+props:blockfake: 4
 harvestcraft:pamcantaloupecrop: 4
 harvestcraft:pamcoconut: 4
 harvestcraft:pamcorncrop: 4
@@ -2516,6 +2517,7 @@ natura:nether_workbenches: 4
 botania:platform: 4
 harvestcraft:pamcranberrycrop: 4
 harvestcraft:pamwintersquashcrop: 4
+props:blockprops: 4
 harvestcraft:pammustardseedscrop: 4
 tconstruct:slime_dirt: 4
 harvestcraft:pambeancrop: 4
@@ -5349,6 +5351,7 @@ abyssalcraft:diamondu: 1
 defiledlands:ravaging_ingot: 1
 appliedenergistics2:material_flour: 1
 harvestcraft:peanutseeditem: 1
+immersiveengineering:maintenance_kit: 1
 appliedenergistics2:part/cable_smart_purple: 1
 harvestcraft:seaweeditem: 1
 forestry:naturalist_helmet: 1
@@ -6747,7 +6750,6 @@ randomthings:item/emeraldcompass/emeraldcompass_23: 1
 randomthings:item/emeraldcompass/emeraldcompass_22: 1
 randomthings:item/emeraldcompass/emeraldcompass_21: 1
 randomthings:item/emeraldcompass/emeraldcompass_20: 1
-harvestcraft:mangojuiceitem: 1
 randomthings:item/emeraldcompass/emeraldcompass_19: 1
 randomthings:item/emeraldcompass/emeraldcompass_18: 1
 randomthings:item/emeraldcompass/emeraldcompass_17: 1
@@ -7319,6 +7321,7 @@ nuclearcraft:hoe_boron_nitride: 1
 harvestcraft:grapefruitsodaitem: 1
 forestry:pulsating_mesh: 1
 embers:nugget_iron: 1
+props:props: 1
 spectrite:item/spectrite_leggings/spectrite_leggings_03: 1
 enderutilities:item/enderbow_mode_1_broken: 1
 embers:aspectus_iron: 1
@@ -7385,6 +7388,7 @@ forestry:fence/acacia: 1
 biomesoplenty:willow_door: 1
 bloodmagic:dagger_of_sacrifice: 1
 botania:itemblock/flower_black: 1
+minecraft:end_portal: 1
 tconstruct:pattern_kama_head: 1
 nuclearcraft:fuel_rod_berkelium_heb_248: 1
 forestry:fence_gate/chestnut: 1
@@ -7392,6 +7396,7 @@ harvestcraft:grilledskewersitem: 1
 abyssalcraft:cthulhucoin: 1
 abyssalcraft:dreadfragment: 1
 thermalfoundation:tool/shield_platinum: 1
+extrautils2:angelring: 1
 dttraverse:autumn_orangesapling: 1
 actuallyadditions:item_misc_biocoal: 1
 thaumcraft:grapple_gun_spool: 1
@@ -7552,6 +7557,7 @@ extracells:fluid/uranium_238: 1
 gendustry:upgrades/winter: 1
 extracells:fluid/uranium_235: 1
 extracells:fluid/uranium_233: 1
+props:clayred: 1
 ferdinandsflowers:block_cff_doublesd_yucca_tall: 1
 defiledlands:scarlite_reaver: 1
 botania:tornadorod: 1
@@ -8118,7 +8124,7 @@ actuallyadditions:item_misc_coil: 1
 actuallyadditions:item_pants_crystal_blue: 1
 actuallyadditions:item_misc_lens: 1
 harvestcraft:hotwingsitem: 1
-randomthings:lavawader: 1
+spectrite:item/spectrite_pickaxe/spectrite_pickaxe_09: 1
 spectrite:item/spectrite_pickaxe/spectrite_pickaxe_08: 1
 spectrite:item/spectrite_pickaxe/spectrite_pickaxe_07: 1
 spectrite:item/spectrite_pickaxe/spectrite_pickaxe_06: 1
@@ -8134,6 +8140,7 @@ spectrite:item/spectrite_bow/pulling_2/spectrite_bow_pulling_2_32: 1
 spectrite:item/spectrite_bow/pulling_2/spectrite_bow_pulling_2_31: 1
 spectrite:item/spectrite_bow/pulling_2/spectrite_bow_pulling_2_30: 1
 harvestcraft:chilipepperseeditem: 1
+minecraft:end_gateway: 1
 forestry:fence_gate/teak: 1
 spectrite:item/spectrite_bow/pulling_2/spectrite_bow_pulling_2_29: 1
 spectrite:item/spectrite_bow/pulling_2/spectrite_bow_pulling_2_28: 1
@@ -8632,6 +8639,7 @@ actuallyadditions:item_food_hamburger: 1
 minecraft:lead: 1
 enderio:item_dark_steel_treetap: 1
 botania:superlavapendant: 1
+props:claygreen: 1
 randomthings:spectreshovel: 1
 bard_mania:marching_drums: 1
 harvestcraft:bassrawitem: 1
@@ -8741,7 +8749,7 @@ biomesoplenty:boat_ethereal: 1
 nuclearcraft:ingot_block_boron: 1
 yabba:compound_item_barrel: 1
 ebwizardry:master_healing_wand: 1
-storagedrawers:upgrade_creative_store: 1
+nuclearcraft:dust_uranium: 1
 cathedral:dwemer_bars_normal.ornate: 1
 tconstruct:parts/shovel_head.tmat: 1
 actuallyadditions:item_battery_quintuple: 1
@@ -8826,7 +8834,6 @@ actuallyadditions:item_sword_quartz: 1
 conarm:gauntlet_mat_reach: 1
 reccomplex:artifact_generation_tag: 1
 orecore:uranium: 1
-twilightforest:maze_map_focus: 1
 thermalfoundation:item/tool/fishing_rod_gold_cast: 1
 opencomputers:numpad: 1
 embers:plate_copper: 1
@@ -9047,6 +9054,7 @@ harvestcraft:pistachiobakedsalmonitem: 1
 opencomputers:tablet_off: 1
 twilightforest:ironwood_raw: 1
 harvestcraft:tunasaladitem: 1
+props:clayblue: 1
 extrautils2:ingredients_evil_infused_ingot: 1
 thaumicbases:bloodyboots: 1
 minecraft:name_tag: 1
@@ -9345,6 +9353,7 @@ immersiveengineering:material/dust_sulfur: 1
 tconstruct:clay_cast_pan_head: 1
 biomesoplenty:empty_honeycomb_block: 1
 nuclearcraft:fuel_rod_americium_hea_242_oxide: 1
+abyssalcraft:cobbleu: 1
 minecraft:experience_bottle: 1
 spectrite:item/spectrite_bow_special: 1
 abyssalcraft:dirtyplate: 1
@@ -9698,7 +9707,6 @@ nex:hyphae: 1
 spectrite:item/spectrite_axe_special/spectrite_axe_special_02: 1
 spectrite:item/spectrite_axe_special/spectrite_axe_special_01: 1
 harvestcraft:grapejellyitem: 1
-spectrite:item/spectrite_pickaxe/spectrite_pickaxe_09: 1
 ferdinandsflowers:flower_dyes/flower_dyeb_dark_blue: 1
 biomesoplenty:ebony_door: 1
 twilightforest:lamp_of_cinders: 1
@@ -10320,7 +10328,6 @@ minecraft:clownfish: 1
 extracells:part/drive: 1
 appliedenergistics2:part/pattern_terminal: 1
 harvestcraft:omeletitem: 1
-nuclearcraft:dust_uranium: 1
 cathedral:basalt_slab_carved.tiles: 1
 biomesoplenty:pine_door: 1
 villagenames:mineshaftbook: 1
@@ -10701,6 +10708,7 @@ nuclearcraft:dust_oxide_manganese2: 1
 biomesoplenty:eyebulb: 1
 abyssalcraft:antibone: 1
 appliedenergistics2:part/cable_covered_light_blue: 1
+harvestcraft:mangojuiceitem: 1
 harvestcraft:cookedtofuttonitem: 1
 botania:item/terraaxeon: 1
 psi:psimetal_exosuit_helmet: 1
@@ -11979,7 +11987,6 @@ minecraft:record_mall: 1
 thaumicbases:thauminite_plate: 1
 thaumicperiphery:pauldron: 1
 mowziesmobs:campfire: 1
-forestry:woven_silk: 1
 forestry:door/ipe: 1
 defiledlands:umbrium_shovel: 1
 nuclearcraft:depleted_fuel_californium_lec_249_oxide: 1
@@ -12003,6 +12010,7 @@ thaumicbases:thauminitehelmet: 1
 yabba:upgrade_iron_tier: 1
 extracells:fluid/depleted_fuel_leb_248_fluoride_flibe: 1
 orecore:tiny_emerald_dust: 1
+storagedrawers:upgrade_creative_store: 1
 harvestcraft:porksausageitem: 1
 forestry:door/padauk: 1
 bibliocraft:book: 1
@@ -12020,7 +12028,7 @@ harvestcraft:hushpuppiesitem: 1
 cathedral:cathedral_railing_various.netherbrick: 1
 actuallyadditions:item_crystal_empowered_white: 1
 ironbackpacks:upgrade/everlasting: 1
-opencomputers:inventorycontrollerupgrade: 1
+twilightforest:maze_map_focus: 1
 mowziesmobs:barakoa_mask_misery: 1
 spectrite:item/spectrite_boots/spectrite_boots_13: 1
 spectrite:item/spectrite_boots/spectrite_boots_14: 1
@@ -12042,7 +12050,7 @@ harvestcraft:bbqpulledporkitem: 1
 nuclearcraft:curium_243_tiny: 1
 orecore:stone: 1
 harvestcraft:bibimbapitem: 1
-extrautils2:angelring: 1
+forestry:woven_silk: 1
 opencomputers:microcontrollercasecreative: 1
 harvestcraft:gourmetbeefpattyitem: 1
 roots:spritely_brew: 1
@@ -12054,7 +12062,7 @@ randomthings:luminousstainedbrick/gray: 1
 gendustry:upgrades/sealing: 1
 ferdinandsflowers:brick_slabs/block_dye_brick_half_orange_yellow: 1
 twilightforest:arctic_helmet: 1
-abyssalcraft:cobbleu: 1
+opencomputers:inventorycontrollerupgrade: 1
 harvestcraft:snickersbaritem: 1
 astralsorcery:blockmarbledoubleslab: 1
 advgenerators:controller: 1
@@ -12664,6 +12672,7 @@ actuallyadditions:item_food_pumpkin_stew: 1
 harvestcraft:cucumbersaladitem: 1
 extrautils2:snowglobe: 1
 extracells:fluid/refined_oil: 1
+randomthings:lavawader: 1
 magicbees:extended_fertilizer: 1
 randomthings:stainedbrick/silver: 1
 extracells:fluid/plasma: 1
@@ -13805,6 +13814,7 @@ minecraft:stone_hoe: 1
 malisisdoors:big_door_spruce_3x3: 1
 harvestcraft:patreonpieitem: 1
 opencomputers:componentbuscreative: 1
+props:tool: 1
 botania:itemblock/mushroom_light_blue: 1
 botania:clip: 1
 botania:dreamwoodtwig: 1
