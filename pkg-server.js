@@ -38,17 +38,24 @@ var clientsideMods = [
 function run()
 {
   Fly.log("Packaging Server...");
-  // clean();
+  clean();
+  createServer();
   copyMods();
   copyConfigs();
   deleteClientMods();
 }
 
+function createServer()
+{
+  FS.copy("lib", "server");
+  // Apply Server Icon
+  FS.copy(".minecraft/config/itlt/icon-64.png", "server/server-icon.png");
+}
+
 function clean()
 {
   Fly.log("Cleaning...");
-  FS.delete("server/mods");
-  FS.delete("server/config");
+  FS.delete("server");
 }
 
 function copyMods()
