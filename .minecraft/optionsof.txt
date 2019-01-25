@@ -56,11 +56,11 @@ ofShowCapes:true
 ofNaturalTextures:true
 ofEmissiveTextures:true
 ofLazyChunkLoading:false
-ofRenderRegions:false
+ofRenderRegions:true
 ofSmartAnimations:true
 ofDynamicFov:true
 ofAlternateBlocks:true
-ofDynamicLights:2
+ofDynamicLights:1
 ofScreenshotSize:1
 ofCustomEntityModels:true
 ofCustomGuis:true
