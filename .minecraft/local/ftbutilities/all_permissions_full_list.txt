@@ -1,4 +1,4 @@
-18961 nodes in total
+18955 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -3414,7 +3414,6 @@ ftbutilities.claims.block.edit.nuclearcraft.water_source: OP
 ftbutilities.claims.block.edit.nuclearcraft.water_source_compact: OP
 ftbutilities.claims.block.edit.nuclearcraft.water_source_dense: OP
 ftbutilities.claims.block.edit.openblocks.auto_anvil: OP
-ftbutilities.claims.block.edit.openblocks.auto_enchantment_table: OP
 ftbutilities.claims.block.edit.openblocks.beartrap: OP
 ftbutilities.claims.block.edit.openblocks.big_button: OP
 ftbutilities.claims.block.edit.openblocks.big_button_wood: OP
@@ -3430,7 +3429,6 @@ ftbutilities.claims.block.edit.openblocks.elevator: OP
 ftbutilities.claims.block.edit.openblocks.elevator_rotating: OP
 ftbutilities.claims.block.edit.openblocks.fan: OP
 ftbutilities.claims.block.edit.openblocks.flag: OP
-ftbutilities.claims.block.edit.openblocks.golden_egg: OP
 ftbutilities.claims.block.edit.openblocks.grave: ALL
 ftbutilities.claims.block.edit.openblocks.guide: OP
 ftbutilities.claims.block.edit.openblocks.heal: OP
@@ -8312,7 +8310,6 @@ ftbutilities.claims.block.interact.nuclearcraft.water_source: OP
 ftbutilities.claims.block.interact.nuclearcraft.water_source_compact: OP
 ftbutilities.claims.block.interact.nuclearcraft.water_source_dense: OP
 ftbutilities.claims.block.interact.openblocks.auto_anvil: OP
-ftbutilities.claims.block.interact.openblocks.auto_enchantment_table: OP
 ftbutilities.claims.block.interact.openblocks.beartrap: OP
 ftbutilities.claims.block.interact.openblocks.big_button: OP
 ftbutilities.claims.block.interact.openblocks.big_button_wood: OP
@@ -8328,7 +8325,6 @@ ftbutilities.claims.block.interact.openblocks.elevator: OP
 ftbutilities.claims.block.interact.openblocks.elevator_rotating: OP
 ftbutilities.claims.block.interact.openblocks.fan: OP
 ftbutilities.claims.block.interact.openblocks.flag: OP
-ftbutilities.claims.block.interact.openblocks.golden_egg: OP
 ftbutilities.claims.block.interact.openblocks.grave: OP
 ftbutilities.claims.block.interact.openblocks.guide: OP
 ftbutilities.claims.block.interact.openblocks.heal: OP
@@ -16257,7 +16253,6 @@ ftbutilities.claims.item.nuclearcraft.water_source: ALL
 ftbutilities.claims.item.nuclearcraft.water_source_compact: ALL
 ftbutilities.claims.item.nuclearcraft.water_source_dense: ALL
 ftbutilities.claims.item.openblocks.auto_anvil: ALL
-ftbutilities.claims.item.openblocks.auto_enchantment_table: ALL
 ftbutilities.claims.item.openblocks.beartrap: ALL
 ftbutilities.claims.item.openblocks.big_button: ALL
 ftbutilities.claims.item.openblocks.big_button_wood: ALL
@@ -16284,7 +16279,6 @@ ftbutilities.claims.item.openblocks.flag: ALL
 ftbutilities.claims.item.openblocks.generic: ALL
 ftbutilities.claims.item.openblocks.generic_unstackable: ALL
 ftbutilities.claims.item.openblocks.glyph: ALL
-ftbutilities.claims.item.openblocks.golden_egg: ALL
 ftbutilities.claims.item.openblocks.golden_eye: ALL
 ftbutilities.claims.item.openblocks.grave: ALL
 ftbutilities.claims.item.openblocks.guide: ALL
