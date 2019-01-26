@@ -40,7 +40,7 @@ ofVignette:0
 ofChunkUpdates:1
 ofChunkUpdatesDynamic:true
 ofTime:0
-ofClearWater:false
+ofClearWater:true
 ofAaLevel:0
 ofAfLevel:1
 ofProfiler:false
@@ -55,7 +55,7 @@ ofCustomSky:true
 ofShowCapes:true
 ofNaturalTextures:true
 ofEmissiveTextures:true
-ofLazyChunkLoading:false
+ofLazyChunkLoading:true
 ofRenderRegions:false
 ofSmartAnimations:true
 ofDynamicFov:true
@@ -67,6 +67,6 @@ ofCustomGuis:true
 ofShowGlErrors:true
 ofFullscreenMode:Default
 ofFastMath:true
-ofFastRender:false
+ofFastRender:true
 ofTranslucentBlocks:2
 key_of.key.zoom:46
