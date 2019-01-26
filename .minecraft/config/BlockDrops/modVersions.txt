@@ -161,7 +161,6 @@
   "mobdismemberment": "7.0.0",
   "villagenames": "2.0",
   "cofhcore": "4.6.1",
-  "playerweight": "1.4",
   "findme": "1.0.2",
   "immersivecables": "1.3.2",
   "plustic": "6.5.2.0",
