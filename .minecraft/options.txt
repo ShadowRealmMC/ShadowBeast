@@ -156,7 +156,7 @@ key_Key.SlashBlade.SA:47
 key_Key.SlashBlade.LO:42
 key_Key.SlashBlade.CA:29
 key_key.tg.open_gui:19
-key_key.tg.armor_ability:46
+key_key.tg.armor_ability:0
 key_key.tg.lense_gui:33
 key_key.switchweaponmode.desc:0
 key_key.toastcontrol.clear:207
