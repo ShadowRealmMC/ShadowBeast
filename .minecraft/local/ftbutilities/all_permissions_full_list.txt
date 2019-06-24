@@ -20175,6 +20175,7 @@ command.immersivepetroleum.ip
 command.jeresources.profile
 command.journeymap.jtp
 command.kill
+command.laggoggles.laggoggles
 command.locate
 command.login_shield.lgs.setspawn
 command.login_shield.lgs.sit
