@@ -4,6 +4,7 @@ function patch(mode)
     FS.copy(".minecraft/config/betterfoliage." + mode + ".cfg", ".minecraft/config/betterfoliage.cfg");
     FS.copy(".minecraft/config/Weather2/Particle." + mode + ".cfg", ".minecraft/config/Weather2/Particle.cfg");
     FS.copy(".minecraft/config/foamfix." + mode + ".cfg", ".minecraft/config/foamfix.cfg");
+    FS.copy(".minecraft/options." + mode + ".txt", ".minecraft/options.txt");
 }
 
 patch(Fly.getParameter(0));
