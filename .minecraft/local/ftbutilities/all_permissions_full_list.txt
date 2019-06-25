@@ -20251,6 +20251,7 @@ command.seed
 command.setblock
 command.setworldspawn
 command.silentlib.silentlib_datadump
+command.sledgehammer.sledgehammer
 command.spawnpoint
 command.spectrite.sd
 command.spiceoflife.spiceoflife

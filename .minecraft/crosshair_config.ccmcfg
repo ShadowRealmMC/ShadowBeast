@@ -16,7 +16,7 @@ crosshair_colour:255/255/255/255
 crosshair_type:5
 crosshair_width:1
 crosshair_height:1
-crosshair_gap:2
+crosshair_gap:0
 crosshair_thickness:1
 crosshair_rotation:0
 visible_default:true
