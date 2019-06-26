@@ -18,3 +18,7 @@ natives/
 \.minecraft/usercache\.json
 
 server-old/
+
+\.minecraft/stall-reports/
+
+\.minecraft/backups/
