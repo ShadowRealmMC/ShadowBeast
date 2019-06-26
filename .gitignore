@@ -22,3 +22,5 @@ server-old/
 \.minecraft/stall-reports/
 
 \.minecraft/backups/
+
+compile/
