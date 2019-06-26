@@ -60,13 +60,13 @@ ofRenderRegions:false
 ofSmartAnimations:true
 ofDynamicFov:true
 ofAlternateBlocks:true
-ofDynamicLights:3
+ofDynamicLights:2
 ofScreenshotSize:1
 ofCustomEntityModels:true
 ofCustomGuis:true
 ofShowGlErrors:false
 ofFullscreenMode:Default
 ofFastMath:true
-ofFastRender:true
+ofFastRender:false
 ofTranslucentBlocks:2
 key_of.key.zoom:46
