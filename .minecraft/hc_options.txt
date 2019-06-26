@@ -1,1 +1,0 @@
-{"CustomData":"{ChatOverhaulLastText:\"\"}","Authority":"null","renderSpecial":true,"overrideCape":false,"skinType":0,"Theme":"Vanilla"}
