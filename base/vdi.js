@@ -28,6 +28,11 @@ function patch(mode)
     {
         FS.copy(".minecraft/optionsshaders.ultra.txt", ".minecraft/optionsshaders.txt");
     }
+
+    else
+    {
+        FS.delete(".minecraft/optionsshaders.txt");
+    }
 }
 
 patch(Fly.getParameter(0));
