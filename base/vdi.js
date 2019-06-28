@@ -1,6 +1,15 @@
 function patch(mode)
 {
+    var shaders = false;
+    
+    if(mode == "ultra|shaders")
+    {
+        shaders = true;
+        mode = "ultra";
+    }
+    
     FS.copy("instance." + mode +".cfg", "instance.cfg");
+    FS.copy(".minecraft/config/soundfilters." + mode + ".cfg", ".minecraft/config/soundfilters.cfg");
     FS.copy(".minecraft/config/mobdismemberment." + mode + ".cfg", ".minecraft/config/mobdismemberment.cfg");
     FS.copy(".minecraft/config/betterfoliage." + mode + ".cfg", ".minecraft/config/betterfoliage.cfg");
     FS.copy(".minecraft/config/chunkanimator." + mode + ".cfg", ".minecraft/config/chunkanimator.cfg");
@@ -15,7 +24,7 @@ function patch(mode)
     FS.copy(".minecraft/resources/assets/fml/textures/gui/forge." + mode + ".gif", ".minecraft/resources/assets/fml/textures/gui/forge.gif");
     FS.copy(".minecraft/resources/assets/fml/textures/gui/florb." + mode + ".gif", ".minecraft/resources/assets/fml/textures/gui/florb.gif");
 
-    if(mode == "ultra")
+    if(shaders)
     {
         FS.copy(".minecraft/optionsshaders.ultra.txt", ".minecraft/optionsshaders.txt");
     }
