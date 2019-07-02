@@ -24,7 +24,7 @@ var clientsideMods = [
   "MobAmputation-1.12.2-7.0.0.jar",
   "MobDismemberment-1.12.2-7.0.0.jar",
   "mobends-0.24_for_MC-1.12.jar",
-  "MouseTweaks-2.10-mc1.12.1.jar",
+  "MouseTweaks-2.8-mc1.12.1.jar",
   "OptiFine_1.12.2_HD_U_E2.jar",
   "reauth-3.6.0.jar",
   "ResourceLoader-MC1.12.1-1.5.3.jar",
