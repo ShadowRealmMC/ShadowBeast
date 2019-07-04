@@ -247,6 +247,15 @@ var fullTome = <akashictome:tome> .withTag(
 				},
 				Damage: 1 as short
 			},
+            
+            spiceoflife: {
+				id: "spiceoflife:bookfoodjournal",
+				Count: 1 as byte,
+				tag: {
+					"akashictome:definedMod": "spiceoflife"
+				},
+				Damage: 1 as short
+			},
 
 			xnet: {
 				id: "xnet:xnet_manual",
@@ -269,7 +278,7 @@ mods.jei.JEI.addItem(fullTome);
 recipes.addShapeless(fullTome, [<minecraft:dirt>]);
 
 // Inventory Starter
-mods.initialinventory.InvHandler.addStartingItem(fullTome);
+mods.initialinventory.InvHandler.addStartingItem(fullTome, 9);
 
 // Book Tooltip
 	fullTome.addTooltip(format.aqua("The Tome is preloaded with all basic mod manuals and guides!"));
