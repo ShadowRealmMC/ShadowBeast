@@ -278,7 +278,7 @@ mods.jei.JEI.addItem(fullTome);
 recipes.addShapeless(fullTome, [<minecraft:dirt>]);
 
 // Inventory Starter
-mods.initialinventory.InvHandler.addStartingItem(fullTome, 9);
+mods.initialinventory.InvHandler.addStartingItem(fullTome, 8);
 
 // Book Tooltip
 	fullTome.addTooltip(format.aqua("The Tome is preloaded with all basic mod manuals and guides!"));
