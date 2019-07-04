@@ -1,7 +1,7 @@
 {
 	"priority": 1000000000000,
 	"populate": {
-		"coal": {
+		"xcoal": {
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -24,7 +24,7 @@
 				]
 			}
 		},
-		"iron": {
+		"xiron": {
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -47,7 +47,7 @@
 				]
 			}
 		},
-		"certusquartz": {
+		"xcertusquartz": {
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -71,7 +71,7 @@
 				]
 			}
 		},
-		"copper": {
+		"xcopper": {
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -94,7 +94,7 @@
 				]
 			}
 		},
-		"gold": {
+		"xgold": {
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -117,7 +117,7 @@
 				]
 			}
 		},
-		"redstone": {
+		"xredstone": {
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -140,7 +140,7 @@
 				]
 			}
 		},
-		"diamond": {
+		"xdiamond": {
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -163,7 +163,7 @@
 				]
 			}
 		},
-		"lapis": {
+		"xlapis": {
 			"distribution": "gaussian",
 			"generator": {
 				"block": [
@@ -186,7 +186,7 @@
 				]
 			}
 		},
-		"mesa_gold": {
+		"xmesa_gold": {
 			"enabled": true,
 			"distribution": "uniform",
 			"generator": {
@@ -225,7 +225,7 @@
 				]
 			}
 		},
-		"emerald": {
+		"xemerald": {
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -265,7 +265,7 @@
 				]
 			}
 		},
-		"nquartz": {
+		"xnquartz": {
 			"distribution": "uniform",
 			"generator": {
 				"block": "quartz_ore",
@@ -287,7 +287,7 @@
 			},
 			"dimension": "all"
 		},
-		"quartz": {
+		"xquartz": {
 			"distribution": "uniform",
 			"generator": {
 				"block": "embers:ore_quartz",
@@ -307,7 +307,7 @@
 				]
 			}
 		},
-		"xp": {
+		"xxp": {
 			"distribution": "uniform",
 			"generator": {
 				"block": "orecore:xp_ore",
@@ -327,27 +327,7 @@
 				]
 			}
 		},
-		"xpxx": {
-			"distribution": "uniform",
-			"generator": {
-				"block": "minecraft:cobblestone",
-				"material": "minecraft:stone",
-				"cluster-size": 32
-			},
-			"cluster-count": 55,
-			"min-height": 0,
-			"max-height": 4,
-			"retrogen": false,
-			"biome": "all",
-			"dimension": {
-				"restriction": "blacklist",
-				"value": [
-					-1,
-					1
-				]
-			}
-		},
-		"heartcrystal": {
+		"xheartcrystal": {
 			"distribution": "uniform",
 			"generator": {
 				"block": "scalinghealth:crystalore",
@@ -367,13 +347,7 @@
 				]
 			}
 		},
-
-
-
-
-
-
-		"quartzcertusquartz": {
+		"xquartzcertusquartz": {
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -398,7 +372,7 @@
 				]
 			}
 		},
-		"ironcopper": {
+		"xironcopper": {
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -423,7 +397,7 @@
 				]
 			}
 		},
-		"redstonelapis": {
+		"xredstonelapis": {
 			"distribution": "uniform",
 			"generator": {
 				"block": [
